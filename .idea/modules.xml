@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlackJackGame.iml" filepath="$PROJECT_DIR$/.idea/BlackJackGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonObject and Data Str Basics/.idea/PythonObject and Data Str Basics.iml" filepath="$PROJECT_DIR$/../PythonObject and Data Str Basics/.idea/PythonObject and Data Str Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonAdvancedModule/.idea/pythonAdvancedModule.iml" filepath="$PROJECT_DIR$/../pythonAdvancedModule/.idea/pythonAdvancedModule.iml" />
+    </modules>
+  </component>
+</project>
